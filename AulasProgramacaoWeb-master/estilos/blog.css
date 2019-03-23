@@ -8,6 +8,15 @@ body{
     color: #fcfcfd;
 }
 
+section h3{
+    font-size: 1.7em;
+}
+
+header li a{
+    color: #99a0b0;
+    font-weight: lighter;
+}
+
 .identificacao h1 {
 
     font-size: 2.5em;
@@ -37,4 +46,8 @@ body{
 .styleprojetos li a {
     color: #ffffff;
     font-size: 1.3em;
+}
+
+#sobre img{
+    width: 200px;
 }
